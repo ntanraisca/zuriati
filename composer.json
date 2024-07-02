@@ -1,0 +1,19 @@
+{
+    "name": "zuriati/labhello",
+    "description": "uji coba",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Intan Zuriati",
+            "email": "zuriatiintan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "zuriati\\labhello\\": "src/"
+        }
+    },
+    "require": {}
+}
